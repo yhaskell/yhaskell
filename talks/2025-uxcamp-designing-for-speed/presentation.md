@@ -139,7 +139,7 @@ Software we all know and love
 ## Some Links
 
 [Local-first software](https://localfirstweb.dev)
-[Unexpected benefits of going local-first - Tuomas Artman (Local-First Conf)](https://www.youtube.com/watch?v=VLgmjzERT08)
+[Unexpected benefits of going local-first](https://www.youtube.com/watch?v=VLgmjzERT08)
 
 ---
 
@@ -148,8 +148,14 @@ Software we all know and love
 #### Obligatory advertisement
 
 <img src="https://camunda.com/wp-content/uploads/2020/05/logo-camunda-black.svg" alt="Camunda logo" style="width: 400px" />
-<a href="https://camunda.com/careers"><img src="qr.svg" alt="Camunda logo" style="width: 400px" /></a>
+<a href="https://camunda.com/careers"><img src="camunda-careers.svg" alt="Camunda logo" style="width: 400px" /></a>
 
 ---
 
-# _Thanks!_
+<!--config align=center-->
+
+# Thanks!
+
+![](slides.svg)
+
+`slides`

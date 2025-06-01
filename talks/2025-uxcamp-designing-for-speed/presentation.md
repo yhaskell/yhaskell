@@ -154,7 +154,7 @@ Software we all know and love
 
 <!--config align=center-->
 
-# Thanks!
+# Thanks :heart:
 
 ![](slides.svg)
 

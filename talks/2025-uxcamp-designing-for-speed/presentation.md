@@ -6,8 +6,6 @@ data-theme: funky
 
 # Designing for _Speed_
 
-by Igor Dultsev
-
 _this is a rant_
 
 by [`Igor Dultsev`](https://github.com/yhaskell) for UX Camp Europe 2025
@@ -44,7 +42,7 @@ Not only show the videos 😊
 
 - What to do if your software is slow
 - What to do if your software is :star:fast:star:
-- Desiginer's responsibility
+- Designer's responsibility
 - Local-first
 
 ---
